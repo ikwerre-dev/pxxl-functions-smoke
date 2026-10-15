@@ -1,0 +1,5 @@
+version = 1
+
+[[rewrites]]
+source = "/function-health"
+destination = "/api/health?marker=rewrite"
